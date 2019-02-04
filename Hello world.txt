@@ -1,3 +1,4 @@
 printOut("Hello world")
 print(hi)
 print(hi friends)
+print(new)
