@@ -6,4 +6,5 @@ public class Task11 {
         String s = scan.nextLine();
         System.out.println(s);
     }
+    
 }
